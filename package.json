@@ -1,5 +1,5 @@
 {
-  "name": "react-drag",
+  "name": "react-as-drag",
   "version": "1.0.0",
   "description": "一个简单的React拖拽组件",
   "main": "index.js",
@@ -9,6 +9,7 @@
   },
   "author": "",
   "license": "MIT",
+  "repository": "https://github.com/liguifa/react-as-drag.git",
   "dependencies": {
     "prop-types": "^15.6.0",
     "react": "^16.2.0",

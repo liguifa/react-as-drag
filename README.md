@@ -14,7 +14,7 @@ $ npm install --save react-react
 
 ```javascript
 import React from 'react';
-import Draggable from 'react-drag';
+import Draggable from 'react-as-drag';
 
 React.render(
     <Draggable>
