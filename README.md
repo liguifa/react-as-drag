@@ -1,4 +1,4 @@
-# react-as-drag
+﻿# react-as-drag
 
 一个简单的React拖拽组件
 
@@ -7,14 +7,14 @@
 ## 安装
 
 ```bash
-$ npm install --save react-react
+$ npm install --save react-as-drag
 ```
 
 ## 使用
 
 ```javascript
 import React from 'react';
-import Draggable from 'react-as-drag';
+import {Draggable} from 'react-as-drag';
 
 React.render(
     <Draggable>
