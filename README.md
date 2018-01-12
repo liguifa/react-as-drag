@@ -1,4 +1,4 @@
-# react-drag
+# react-as-drag
 
 一个简单的React拖拽组件
 
